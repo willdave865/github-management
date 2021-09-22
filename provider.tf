@@ -3,5 +3,6 @@
 provider "github" {
   version      = "~> 2.2"
   organization = "<willdave865>"
-  # Export the GITHUB_TOKEN as an environment variable
+  token        = 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
 }
+
